@@ -1,0 +1,17 @@
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\bin\Release\net6.0-windows\IMSUpdate.exe
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\bin\Release\net6.0-windows\IMSUpdate.deps.json
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\bin\Release\net6.0-windows\IMSUpdate.runtimeconfig.json
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\bin\Release\net6.0-windows\IMSUpdate.dll
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\bin\Release\net6.0-windows\IMSUpdate.pdb
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\obj\Release\net6.0-windows\IMSUpdate.csproj.AssemblyReference.cache
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\obj\Release\net6.0-windows\IMSUpdate.Form1.resources
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\obj\Release\net6.0-windows\IMSUpdate.csproj.GenerateResource.cache
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\obj\Release\net6.0-windows\IMSUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\obj\Release\net6.0-windows\IMSUpdate.AssemblyInfoInputs.cache
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\obj\Release\net6.0-windows\IMSUpdate.AssemblyInfo.cs
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\obj\Release\net6.0-windows\IMSUpdate.csproj.CoreCompileInputs.cache
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\obj\Release\net6.0-windows\IMSUpdate.dll
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\obj\Release\net6.0-windows\refint\IMSUpdate.dll
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\obj\Release\net6.0-windows\IMSUpdate.pdb
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\obj\Release\net6.0-windows\IMSUpdate.genruntimeconfig.cache
+C:\Users\SHANY\Desktop\IMSUpdate\IMSUpdate\obj\Release\net6.0-windows\ref\IMSUpdate.dll
