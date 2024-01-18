@@ -42,11 +42,14 @@ namespace IMSUpdate
                 // Optionally, you may want to restart your application after the update
                 //Process.Start("Abbey Trading Store.exe");
 
-                MessageBox.Show("The update was completed successfully . Restart the application for the changes to take effect.");
+                //MessageBox.Show("The update was completed successfully . Restart the application for the changes to take effect.");
 
                 //ApplicationConfiguration.Initialize();
                 //Application.Run(new Form1());
 
+                string prog = Environment.GetFolderPath(Environment.SpecialFolder.ProgramFilesX86) + "/IMS/Abbey Trading Store.exe";
+
+                Process.Start(prog);
 
 
             }
